@@ -64,7 +64,7 @@ Bybit Order API
 1) Clone and install dependencies:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tradingview-webhook-to-bybit-lite.git
+git clone https://github.com/leionion/tradingview-webhook-to-bybit-lite.git
 cd tradingview-webhook-to-bybit-lite
 python3 -m venv .venv
 source .venv/bin/activate
